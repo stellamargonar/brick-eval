@@ -1,0 +1,31 @@
+{
+  "name": "brick-eval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stellamargonar/brick-eval.git"
+  },
+  "keywords": [
+    "lego",
+    "evaluate"
+  ],
+  "author": "Stella Margonar",
+  "license": "GPL V3",
+  "bugs": {
+    "url": "https://github.com/stellamargonar/brick-eval/issues"
+  },
+  "homepage": "https://github.com/stellamargonar/brick-eval",
+  "dependencies": {
+    "async": "^1.5.2",
+    "cheerio": "^0.19.0",
+    "express": "^4.13.4",
+    "request": "^2.67.0",
+    "simplecrawler": "^0.5.4",
+    "soap": "^0.11.4"
+  }
+}
